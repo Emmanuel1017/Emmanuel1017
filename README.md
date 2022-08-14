@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Software Engineer . Chck out my repositories and feel free to fork and a star will be nice.kudos 
+### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development and Apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.kudos 
 
 
 # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
