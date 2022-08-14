@@ -1,4 +1,5 @@
 ## ✨About Me✨
+![Emmanuel_Be_Cool](https://user-images.githubusercontent.com/41972019/184536956-abe81d4a-7efb-4ebe-bf06-a1fe9cd6aa35.gif)
 
 ### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development and Apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.
 
