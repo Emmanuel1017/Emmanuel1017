@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development and Apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.kudos 
 
 
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+# My Git Stats are as below:
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
 ## 2. Most Used Languages
