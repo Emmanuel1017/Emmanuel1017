@@ -15,9 +15,9 @@
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Emmanuel1017)
 ## 5.  📫 How to reach me: ...
-<a href="https://emmanuel.cariboudevs.com/">
-   Contact me here
-  </a>
+<a href="https://emmanuel.cariboudevs.com/"> Contact me here </a>
+
+<br/>
 ## 6. A random joke for you 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
