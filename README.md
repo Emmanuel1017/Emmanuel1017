@@ -14,9 +14,11 @@
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Emmanuel1017/Emmanuel1017)
 ## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Emmanuel1017)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Emmanuel1017)
-## 5. A random joke for no reason 😄
+## 5.  📫 How to reach me: ...
+<a href="https://emmanuel.cariboudevs.com/">
+   Contact me here
+  </a>
+## 6. A random joke for you 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
