@@ -10,6 +10,7 @@
 🌱 I’m currently learning swift for native IOS development
 
 <a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in angular</a>
+<br />
 <a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in laravel</a>
 
 ## 1. GitHub Stats
