@@ -19,7 +19,9 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
 ## 2. Most Used Languages
 Well an analysis of the languages in my repositories
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&theme=blue-green)
+<br/>
+
+                                                     ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&theme=blue-green)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Emmanuel1017/Emmanuel1017)
 ## 4. Profile View Counter
