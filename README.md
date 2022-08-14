@@ -9,7 +9,7 @@
 🌱 I’m currently learning data analysis and analytics
 🌱 I’m currently learning swift for native IOS development
 
-<a href="https://emmanuel1017.github.io/Angular-Resume/"> More about me </a>
+<a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in angular</a>
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
