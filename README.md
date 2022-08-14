@@ -11,7 +11,7 @@
 
 <a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in angular</a>
 <br />
-<a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in laravel</a>
+<a href="https://emmanuel1017.github.io/Angular-Resume/"> Check out my Resume in PhP laravel</a>
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
