@@ -12,8 +12,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Emmanuel1017)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Emmanuel1017/Emmanuel1017)
+
 <!--
 **Emmanuel1017/Emmanuel1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
