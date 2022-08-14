@@ -1,3 +1,5 @@
+## Emmanuel
+
 ### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development and Apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.kudos 
 
 
@@ -5,6 +7,7 @@
 <br/>
 
 🌱 I’m currently learning data analysis and analytics
+🌱 I’m currently learning swift for native IOS development
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
