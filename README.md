@@ -2,7 +2,7 @@
 
 ![Emmanuel_Be_Cool (1)](https://user-images.githubusercontent.com/41972019/184537804-e632ae1f-3efd-44b1-b861-8d4e25fdb2cb.gif)
 
-### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development and Apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.
+### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development with frontend and RESTful apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice.
 
 
 # More about me 
