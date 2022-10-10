@@ -3,13 +3,13 @@
 ![Emmanuel_Be_Cool (2)](https://user-images.githubusercontent.com/41972019/194909329-0ba11fa6-698b-4246-934d-49b694dc4297.gif)
 
 
-### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development with frontend and RESTful apis.My hobbies are xploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice (as it is like money in space 'starbucks')
+### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development frontend and Backend.My hobbies are exploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice (as it is like money in space 'starbucks')
 
 
 # More about me 
 <br/>
 
-🌱 I’m currently learning data analysis and analytics
+🌱 I’m currently learning GoLang 
 🌱 I’m currently learning swift for native IOS development
 
 <a href="https://emmanuel1017.github.io/Angular-Resume/">✨ Check out my Resume in angular</a>
