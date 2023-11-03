@@ -3,18 +3,24 @@
 ![Emmanuel_Be_Cool (2)](https://user-images.githubusercontent.com/41972019/194909329-0ba11fa6-698b-4246-934d-49b694dc4297.gif)
 
 
-### Hi there 👋 Welcome to my github. I am a Software Engineering pratictioner (Bsc.Computer Science) with acquired intrests in Android, .NET Xamarian and Windows Forms and Web Development frontend and Backend.My hobbies are exploits , homebrews ad DIYs.  Check out my repositories and feel free to fork and a star will be nice (as it is like money in space 'starbucks')
+Hello! 👋 I'm a Multilingual Full-Stack Developer with expertise in:
+
+Python 🐍
+SQL & NoSQL 📊
+Go 🚀
+PHP 🛠️
+JavaScript 🌐
+Java ☕
+Ruby 💎
+C# 🖥️
+Frameworks: Laravel, Django, FastAPI, React, Angular, Nuxt, Vue 2 & 3, Frappe 💻
+Cybersecurity 🔒
+Explore my work and feel free to connect. Let's code together! 🚀🌟
 
 
-# More about me 
-<br/>
 
-🌱 I’m currently learning GoLang 
-🌱 I’m currently learning swift for native IOS development
 
-<a href="https://emmanuel1017.github.io/Angular-Resume/">✨ Check out my Resume in angular</a>
-<br />
-<a href="https://emmanuel1017.github.io/Angular-Resume/">✨ Check out my Resume in PhP laravel</a>
+
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
