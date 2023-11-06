@@ -6,15 +6,26 @@
 Hello! 👋 I'm a Multilingual Full-Stack Developer with expertise in:
 
 Python 🐍
+
 SQL & NoSQL 📊
+
 Go 🚀
+
 PHP 🛠️
+
 JavaScript 🌐
+
 Java ☕
+
 Ruby 💎
+
 C# 🖥️
+
+
 Frameworks: Laravel, Django, FastAPI, React, Angular, Nuxt, Vue 2 & 3, Frappe 💻
+
 Cybersecurity 🔒
+
 Explore my work and feel free to connect. Let's code together! 🚀🌟
 
 
