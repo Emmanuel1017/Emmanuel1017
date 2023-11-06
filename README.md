@@ -1,6 +1,7 @@
 ## ✨About Me✨
 
-![Emmanuel_Be_Cool (2)](https://user-images.githubusercontent.com/41972019/194909329-0ba11fa6-698b-4246-934d-49b694dc4297.gif)
+![Emmanuel_Be_Cool](https://github.com/Emmanuel1017/Emmanuel1017/assets/41972019/1f99878a-ed31-4dad-a1ae-6bed6792ed04)
+
 
 
 Hello! 👋 I'm a Multilingual Full-Stack Developer with expertise in:
