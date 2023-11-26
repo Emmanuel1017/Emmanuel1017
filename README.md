@@ -4,7 +4,7 @@
 
 
 
-Hello! 👋 I'm a Multilingual Full-Stack Developer with expertise in:
+Hello! 👋 I'm a Multi-stack  Full-Stack Developer with expertise in:
 
 Python 🐍
 
