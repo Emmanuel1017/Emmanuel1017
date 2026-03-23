@@ -1,68 +1,68 @@
-## ✨About Me✨
-
+# Emmanuel Korir
 ![Emmanuel_Be_Cool](https://github.com/Emmanuel1017/Emmanuel1017/assets/41972019/1f99878a-ed31-4dad-a1ae-6bed6792ed04)
 
+Full-Stack Engineer focused on building scalable systems, secure architectures, and high-performance applications across multiple stacks.
 
+---
 
-Hello! 👋 I'm a Multi-stack  Full-Stack Developer with expertise in:
+## Profile
 
-Python 🐍
+I design and develop software that balances performance, maintainability, and user experience.  
+My work spans backend systems, frontend interfaces, and infrastructure, with a strong emphasis on security and clean architecture.
 
-SQL & NoSQL 📊
+---
 
-Go 🚀
+## Core Technologies
 
-PHP 🛠️
+**Languages**  
+Python · Go · PHP · JavaScript · Java · Ruby · C#
 
-JavaScript 🌐
+**Frameworks & Libraries**  
+Laravel · Django · FastAPI · React · Vue · Angular · Nuxt · Frappe
 
-Java ☕
+**Data & Systems**  
+SQL · NoSQL · API Design · Distributed Systems
 
-Ruby 💎
+**Security**  
+Application Security · Secure Coding Practices · System Hardening
 
-C# 🖥️
+---
 
+## Selected Focus
 
-Frameworks: Laravel, Django, FastAPI, React, Angular, Nuxt, Vue 2 & 3, Frappe 💻
+- Designing modular and scalable backend architectures  
+- Building responsive and intuitive frontend systems  
+- Developing secure and production-ready applications  
+- Optimizing performance across services and databases  
 
-Cybersecurity 🔒
+---
 
-Explore my work and feel free to connect. Let's code together! 🚀🌟
+## GitHub Insights
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&layout=compact&hide_border=true&theme=transparent" height="160"/>
+</p>
 
+---
 
+## Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Emmanuel1017&hide_border=true&theme=transparent" />
+</p>
 
+---
 
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true)
-## 2. Most Used Languages
-Well an analysis of the languages in my repositories
-<br/>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Emmanuel1017/Emmanuel1017)
-## 4. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Emmanuel1017)
-## 5. A random joke for you 😄
-![Jokes Card](https://readme-jokes.vercel.app/api)
-## 6.  📫 How to reach me: ...
-<a href="https://emmanuel.cariboudevs.com/"> Contact me here </a>
+## Work & Collaboration
 
+Open to collaborating on systems that require solid engineering, thoughtful design, and long-term scalability.
 
+Portfolio:  
+https://emmanuel.cariboudevs.com/
 
+---
 
-<!--
-**Emmanuel1017/Emmanuel1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Philosophy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Good software is not just functional — it is reliable, secure, and built to evolve.
