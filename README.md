@@ -16,13 +16,57 @@ Eldoret, Kenya &middot; <a href="mailto:koriremmanuel@rocketmail.com">koriremman
 
 ---
 
+## The portfolio site
+
+<a href="https://emmanuel1017.github.io/Angular-Resume/">
+  <img src="https://github.com/Emmanuel1017/Angular-Resume/releases/download/v1.0.0/demo.gif" alt="Live portfolio demo" width="100%" />
+</a>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://emmanuel1017.github.io/Angular-Resume/"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/01-home-welcome.png" alt="Hero with Kori" /></a><br/><sub><b>Hero</b> &middot; 3D avatar + Kori the cat</sub></td>
+    <td align="center" width="33%"><a href="https://emmanuel1017.github.io/Angular-Resume/#about"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/03-about.png" alt="About section" /></a><br/><sub><b>About</b> &middot; bio + badges</sub></td>
+    <td align="center" width="33%"><a href="https://emmanuel1017.github.io/Angular-Resume/#my-work"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/04-stats-work.png" alt="Stats and work" /></a><br/><sub><b>Things I&rsquo;ve Built</b> &middot; project cards</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://emmanuel1017.github.io/Angular-Resume/#experience"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/05-experience.png" alt="Experience timeline" /></a><br/><sub><b>Experience</b> &middot; interactive timeline</sub></td>
+    <td align="center"><a href="https://emmanuel1017.github.io/Angular-Resume/#posts"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/06-blog-contact.png" alt="Blog" /></a><br/><sub><b>Blog</b> &middot; reading-time + reader</sub></td>
+    <td align="center"><a href="https://emmanuel1017.github.io/Angular-Resume/#contact"><img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/07-contact-form.png" alt="Contact" /></a><br/><sub><b>Contact</b> &middot; Firestore-backed form</sub></td>
+  </tr>
+</table>
+
+> Built with Angular 17 + Three.js + Firebase. AOS scroll animations, real-time admin from the companion app, a 404 page that's a playable mini-game, and Kori &mdash; a Three.js WebGL cat with multi-provider AI chat. [Live site &rarr;](https://emmanuel1017.github.io/Angular-Resume/)
+
+---
+
+## The companion app
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/01-welcome.png" alt="Welcome" /><br/><sub><b>Welcome</b></sub></td>
+    <td align="center" width="25%"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/05-kori.png" alt="Kori" /><br/><sub><b>Kori</b> &middot; native chat</sub></td>
+    <td align="center" width="25%"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/07-profile.png" alt="Profile" /><br/><sub><b>Profile</b></sub></td>
+    <td align="center" width="25%"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/09-admin.png" alt="Admin Console" /><br/><sub><b>Admin</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/03-showcase.png" alt="About" /><br/><sub><b>About</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/06-kori-settings.png" alt="Kori Settings" /><br/><sub><b>Kori settings</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/10-messages.png" alt="Messages" /><br/><sub><b>Messages</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emmanuel1017/My-Resume-Flutter-APP/main/docs/screenshots/12-send-message.png" alt="Send" /><br/><sub><b>Send</b></sub></td>
+  </tr>
+</table>
+
+> Flutter app that wraps the portfolio with a native shell &mdash; instant scroll, Firebase-backed inbox with FCM push, a native `CustomPainter` Kori cat (no WebGL on phones), per-conversation chat history, and live admin controls. [Download the APK &rarr;](https://github.com/Emmanuel1017/My-Resume-Flutter-APP/releases/latest/download/portfolio-admin.apk)
+
+---
+
 ## CV at a glance
 
 <a href="https://github.com/Emmanuel1017/Angular-Resume/releases/download/cv-latest/cv.pdf">
   <img src="cv-full.png" alt="Korir Emmanuel - CV preview" width="100%" />
 </a>
 
-> Click the image for the full PDF, or grab it directly from the [`cv-latest` release](https://github.com/Emmanuel1017/Angular-Resume/releases/tag/cv-latest). The PDF auto-updates from `docs/cv.pdf` on the portfolio repo via the [Publish CV](https://github.com/Emmanuel1017/Angular-Resume/actions/workflows/cv-release.yml) workflow.
+> Click the image for the full PDF, or grab it from the [`cv-latest` release](https://github.com/Emmanuel1017/Angular-Resume/releases/tag/cv-latest). PDF auto-updates from `docs/cv.pdf` via the [Publish CV](https://github.com/Emmanuel1017/Angular-Resume/actions/workflows/cv-release.yml) workflow.
 
 ---
 
