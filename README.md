@@ -15,6 +15,35 @@ Eldoret, Kenya &middot; <a href="mailto:koriremmanuel@rocketmail.com">koriremman
 
 ---
 
+I build distributed systems, cloud-native backends, and AI-driven enterprise software. Seven years in, mostly Elixir/Phoenix, Laravel, Go, Python on the server &mdash; Angular, Vue, React in the browser. Healthcare interop (HL7, DICOM, ICD-11), fintech, AI compliance. Currently architecting Elixir/Phoenix LiveView systems at [Value Chain Factory](https://github.com/Emmanuel1017) and building AI-powered compliance automation at Selstan.
+
+---
+
+## Core technologies
+
+**Architecture** &mdash; Microservices, event-driven systems, high availability, cloud-native design, observability.
+**Backend** &mdash; Elixir/Phoenix/OTP (primary), Laravel/PHP, Python, Go, Java Spring Boot, .NET. REST + LiveView + healthcare interop (HL7, DICOM, ICD-11) + payment integrations.
+**Frontend** &mdash; Angular, Vue/Nuxt, React, TypeScript, Tailwind, SCSS, Blade. Real-time web.
+**DevOps** &mdash; Docker, Kubernetes, NGINX, CI/CD, monitoring, incident response.
+**AI/ML** &mdash; TensorFlow, PyTorch, HuggingFace, RAG pipelines, LangChain, LangGraph, Faiss, ChromaDB, prompt engineering, agent swarms, model deployment + bias removal.
+**Security** &mdash; Zero Trust, GDPR/HIPAA/PIPEDA compliance, secure vaults, PII protection.
+**Data** &mdash; MySQL, PostgreSQL, MariaDB, SQLite, Firebase, NoSQL.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Emmanuel1017&hide_border=true&theme=transparent" alt="Streak"/>
+</p>
+
+---
+
 ## The portfolio site
 
 <a href="https://emmanuel1017.github.io/Angular-Resume/">
@@ -43,31 +72,6 @@ Eldoret, Kenya &middot; <a href="mailto:koriremmanuel@rocketmail.com">koriremman
 </table>
 
 > Flutter app that wraps the portfolio with a native shell &mdash; instant scroll, Firebase-backed inbox with FCM push, a native `CustomPainter` Kori cat (no WebGL on phones), per-conversation chat history, and live admin controls. [Download the APK &rarr;](https://github.com/Emmanuel1017/My-Resume-Flutter-APP/releases/latest/download/portfolio-admin.apk) &middot; [source](https://github.com/Emmanuel1017/My-Resume-Flutter-APP)
-
----
-
-## Core technologies
-
-**Architecture** &mdash; Microservices, event-driven systems, high availability, cloud-native design, observability.
-**Backend** &mdash; Elixir/Phoenix/OTP (primary), Laravel/PHP, Python, Go, Java Spring Boot, .NET. REST + LiveView + healthcare interop (HL7, DICOM, ICD-11) + payment integrations.
-**Frontend** &mdash; Angular, Vue/Nuxt, React, TypeScript, Tailwind, SCSS, Blade. Real-time web.
-**DevOps** &mdash; Docker, Kubernetes, NGINX, CI/CD, monitoring, incident response.
-**AI/ML** &mdash; TensorFlow, PyTorch, HuggingFace, RAG pipelines, LangChain, LangGraph, Faiss, ChromaDB, prompt engineering, agent swarms, model deployment + bias removal.
-**Security** &mdash; Zero Trust, GDPR/HIPAA/PIPEDA compliance, secure vaults, PII protection.
-**Data** &mdash; MySQL, PostgreSQL, MariaDB, SQLite, Firebase, NoSQL.
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuel1017&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel1017&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emmanuel1017&hide_border=true&theme=transparent" alt="Streak"/>
-</p>
 
 ---
 
