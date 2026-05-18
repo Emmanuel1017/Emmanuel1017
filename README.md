@@ -16,6 +16,16 @@ Eldoret, Kenya &middot; <a href="mailto:koriremmanuel@rocketmail.com">koriremman
 
 ---
 
+## CV at a glance
+
+<a href="https://github.com/Emmanuel1017/Angular-Resume/releases/download/cv-latest/cv.pdf">
+  <img src="cv-full.png" alt="Korir Emmanuel - CV preview" width="100%" />
+</a>
+
+> Click the image for the full PDF, or grab it directly from the [`cv-latest` release](https://github.com/Emmanuel1017/Angular-Resume/releases/tag/cv-latest). The PDF auto-updates from `docs/cv.pdf` on the portfolio repo via the [Publish CV](https://github.com/Emmanuel1017/Angular-Resume/actions/workflows/cv-release.yml) workflow.
+
+---
+
 ## Quick links
 
 | | |
