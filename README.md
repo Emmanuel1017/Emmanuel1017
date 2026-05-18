@@ -47,6 +47,10 @@ I build distributed systems, cloud-native backends, and AI-driven enterprise sof
 ## The portfolio site
 
 <a href="https://emmanuel1017.github.io/Angular-Resume/">
+  <img src="https://raw.githubusercontent.com/Emmanuel1017/Angular-Resume/master/docs/screenshots/02-home-avatar.png" alt="Hero section — 3D orbital avatar with Kori the cat" width="100%" />
+</a>
+
+<a href="https://emmanuel1017.github.io/Angular-Resume/">
   <img src="https://github.com/Emmanuel1017/Angular-Resume/releases/download/v1.0.0/demo.gif" alt="Live portfolio demo" width="100%" />
 </a>
 
