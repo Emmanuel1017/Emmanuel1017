@@ -155,10 +155,12 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
         else: return 0
-    force_close_file(data, cache_comment) # saves what is currently in the file before this program crashes
     if request.status_code == 403:
+        force_close_file(data, cache_comment)
         raise Exception('Too many requests in a short amount of time!\nYou\'ve hit the non-documented anti-abuse limit!')
-    raise Exception('recursive_loc() has failed with a', request.status_code, request.text, QUERY_COUNT)
+    # Persistent 5xx after retries: skip this repo's remaining history instead of crashing the whole run.
+    print(f'WARN: recursive_loc for {owner}/{repo_name} gave {request.status_code} after retries; using partial totals.')
+    return addition_total, deletion_total, my_commits
 
 
 def loc_counter_one_repo(owner, repo_name, data, cache_comment, history, addition_total, deletion_total, my_commits):
